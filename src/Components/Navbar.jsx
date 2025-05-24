@@ -14,6 +14,7 @@ const Navbar = () => {
     { title: "Categories", path: "/categories" },
     { title: "Dashboard", path: "/dashboard" },
     { title: "Posts", path: "/posts" },
+    { title: "Meals", path: "/meals" },
   ];
 
   const handler = () => {
